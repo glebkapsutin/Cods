@@ -1,0 +1,25 @@
+img.logo
+{
+  left: 20 auto;
+  margin: 0 auto;
+  size: 1;
+ 
+}
+
+html{
+  background-color: rgb(33, 101, 165);
+}
+html {
+  font-size: 15px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в
+ высоту */
+  font-family: 'Roboto', sans-serif;
+ }
+
+ .hr-vertical-gradient {
+	margin: 20px 0;
+	padding: 0;
+	height: 10px;
+	border: none;
+	background: linear-gradient(180deg, orange, blue);
+}
+ 

@@ -1,0 +1,14 @@
+C:\Users\glebk\Desktop\Cods\bin\Debug\net7.0\Cods.exe
+C:\Users\glebk\Desktop\Cods\bin\Debug\net7.0\Cods.deps.json
+C:\Users\glebk\Desktop\Cods\bin\Debug\net7.0\Cods.runtimeconfig.json
+C:\Users\glebk\Desktop\Cods\bin\Debug\net7.0\Cods.dll
+C:\Users\glebk\Desktop\Cods\bin\Debug\net7.0\Cods.pdb
+C:\Users\glebk\Desktop\Cods\obj\Debug\net7.0\Cods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glebk\Desktop\Cods\obj\Debug\net7.0\Cods.AssemblyInfoInputs.cache
+C:\Users\glebk\Desktop\Cods\obj\Debug\net7.0\Cods.AssemblyInfo.cs
+C:\Users\glebk\Desktop\Cods\obj\Debug\net7.0\Cods.csproj.CoreCompileInputs.cache
+C:\Users\glebk\Desktop\Cods\obj\Debug\net7.0\Cods.dll
+C:\Users\glebk\Desktop\Cods\obj\Debug\net7.0\refint\Cods.dll
+C:\Users\glebk\Desktop\Cods\obj\Debug\net7.0\Cods.pdb
+C:\Users\glebk\Desktop\Cods\obj\Debug\net7.0\Cods.genruntimeconfig.cache
+C:\Users\glebk\Desktop\Cods\obj\Debug\net7.0\ref\Cods.dll
